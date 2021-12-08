@@ -12,11 +12,11 @@ Guide:
 
 Once you run the program you can choose between these different actions: 
 
-   	1. Motion vector on BBB
-        2. Container
-       	3. MP4 track reader
-        4. Subtitle
-        exit. To end the program
+	1. Motion vector on BBB
+	2. Container
+	3. MP4 track reader
+	4. Subtitle
+	exit. To end the program
 
  Now you can navigate throught the program.
  
